@@ -44,6 +44,10 @@ p.target1{
 	height:220px;
 	max-width: 270px;
 }
+.backgroundImg{
+	width: 130px;
+	height:130px;
+}
 .violin{ 
 	
  float: left;
