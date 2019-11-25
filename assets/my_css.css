@@ -11,13 +11,13 @@ div{
 .me {
  position: absolute;
  left: 183px;
- top: 655px;
+ top: 355px;
 }
 .school {
  position: absolute;
  float: top;
  left: 400px;
- top: 1200px;
+ top: 900px;
  
 }
 h2.target1{
@@ -29,12 +29,12 @@ h2.target1{
 h2.target2{
 	position: absolute;
  left: 220px;
-  top: 450px;
+  top: 150px;
 }
 p.target{
 	position: absolute;
  left: 350px;
- top: 1500px;
+ top: 1200px;
   }
 p.target1{
 		position: absolute;
@@ -43,27 +43,27 @@ p.target1{
 .violin{ 
 	
  float: left;
- margin: 500px 200px;
+ margin: 200px 200px;
 }  
 .guitar{ 
 	
  float: left;
- margin: 495px 200px;
+ margin: 195px 200px;
 }  
 h2.target2{
 	position: absolute;
  left: 220px;
-  top: 450px;
+  top: 150px;
 }
 h2.target3{
 	position: absolute;
  left: 190px;
-  top: 1920px;
+  top: 1620px;
 }
 ul.t1{
 position: absolute;
  left: 0px;
-top: 2000px;
+top: 1700px;
 font-family: DFKai-sb;
 	}
 p.t2{
@@ -80,7 +80,7 @@ p.t3{
 h2.target4{
 	position: absolute;
  left: 200px;
-  top: -200px;
+  top: -500px;
 }
 .sports{ 
  float: left;
@@ -93,7 +93,7 @@ h2.target4{
 h2.target5{
 	position: absolute;
  left: 180px;
-  top: 2800px;
+  top: 2500px;
 }
 ul.t2{
 position: absolute;
