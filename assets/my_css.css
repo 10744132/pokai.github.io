@@ -1,4 +1,9 @@
-
+.button{
+	color:orange;
+	font-size: 25px;
+	vertical-align: middle;
+	
+}
 .menu{
 	text-align: center;
 	margin:0px auto;
@@ -11,13 +16,13 @@ div{
 .me {
  position: absolute;
  left: 183px;
- top: 185px;
+ top: 655px;
 }
 .school {
  position: absolute;
  float: top;
- left: 300px;
- top: 700px;
+ left: 400px;
+ top: 1200px;
  
 }
 h2.target1{
@@ -27,51 +32,43 @@ h2.target1{
  
 }
 h2.target2{
-position: absolute;
+	position: absolute;
  left: 220px;
-  top: 950px;
+  top: 450px;
 }
 p.target{
 	position: absolute;
- left: 250px;
- top: 1000px;
+ left: 350px;
+ top: 1500px;
   }
 p.target1{
 		position: absolute;
  left: 330px;
 }
-.SocietyImg{
-	height:220px;
-	max-width: 270px;
-}
-.backgroundImg{
-	width: 130px;
-	height:130px;
-}
 .violin{ 
 	
  float: left;
- margin: 255px 150px;
+ margin: 500px 200px;
 }  
 .guitar{ 
 	
  float: left;
- margin: 250px 150px;
+ margin: 495px 200px;
 }  
 h2.target2{
 	position: absolute;
  left: 220px;
-  top: 150px;
+  top: 450px;
 }
 h2.target3{
 	position: absolute;
  left: 190px;
-  top: 1620px;
+  top: 1920px;
 }
 ul.t1{
 position: absolute;
  left: 0px;
-top: 1700px;
+top: 2000px;
 font-family: DFKai-sb;
 	}
 p.t2{
@@ -88,7 +85,7 @@ p.t3{
 h2.target4{
 	position: absolute;
  left: 200px;
-  top: -500px;
+  top: -200px;
 }
 .sports{ 
  float: left;
@@ -101,12 +98,12 @@ h2.target4{
 h2.target5{
 	position: absolute;
  left: 180px;
-  top: 2200px;
+  top: 2800px;
 }
 ul.t2{
 position: absolute;
  left: 350px;
-top: 2500px;
+top: 2900px;
 font-family: DFKai-sb;
 color: orange;
 }
