@@ -25,6 +25,12 @@ h2.target1{
  
  
 }
+.school {
+ position: absolute;
+ left: 400px;
+ top: 100px;
+ 
+}
 h2.target2{
 	position: absolute;
  left: 220px;
