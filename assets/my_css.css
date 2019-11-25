@@ -11,7 +11,7 @@ div{
 .me {
  position: absolute;
  left: 183px;
- top: 155px;
+ top: 185px;
 }
 .school {
  position: absolute;
@@ -27,7 +27,7 @@ h2.target1{
  
 }
 h2.target2{
-	position: absolute;
+position: absolute;
  left: 220px;
   top: 950px;
 }
@@ -93,12 +93,12 @@ h2.target4{
 h2.target5{
 	position: absolute;
  left: 180px;
-  top: 2500px;
+  top: 2200px;
 }
 ul.t2{
 position: absolute;
  left: 350px;
-top: 2900px;
+top: 2500px;
 font-family: DFKai-sb;
 color: orange;
 }
