@@ -10,14 +10,14 @@ div{
 }
 .me {
  position: absolute;
- left: 183px;
+ left: 283px;
  top: 55px;
 }
 .school {
  position: absolute;
  float: top;
  left: 300px;
- top: 600px;
+ top: 700px;
  
 }
 h2.target1{
@@ -34,7 +34,7 @@ h2.target2{
 p.target{
 	position: absolute;
  left: 250px;
- top: 900px;
+ top: 1000px;
   }
 p.target1{
 		position: absolute;
@@ -43,12 +43,12 @@ p.target1{
 .violin{ 
 	
  float: left;
- margin: 200px 200px;
+ margin: 200px 100px;
 }  
 .guitar{ 
 	
  float: left;
- margin: 195px 200px;
+ margin: 200px 100px;
 }  
 h2.target2{
 	position: absolute;
