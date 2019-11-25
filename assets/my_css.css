@@ -1,0 +1,163 @@
+.button{
+	color:orange;
+	font-size: 25px;
+	vertical-align: middle;
+	
+}
+.menu{
+	text-align: center;
+	margin:0px auto;
+	vertical-align: middle;
+}
+div{
+	text-align: center;
+	margin:0px auto;
+}
+.me {
+ position: absolute;
+ left: 183px;
+ top: 655px;
+}
+.school {
+ position: absolute;
+ float: top;
+ left: 400px;
+ top: 1200px;
+ 
+}
+h2.target1{
+	position: absolute;
+ left: 200px;
+ 
+ 
+}
+h2.target2{
+	position: absolute;
+ left: 220px;
+  top: 450px;
+}
+p.target{
+	position: absolute;
+ left: 350px;
+ top: 1500px;
+  }
+p.target1{
+		position: absolute;
+ left: 330px;
+}
+.violin{ 
+	
+ float: left;
+ margin: 500px 200px;
+}  
+.guitar{ 
+	
+ float: left;
+ margin: 495px 200px;
+}  
+h2.target2{
+	position: absolute;
+ left: 220px;
+  top: 450px;
+}
+h2.target3{
+	position: absolute;
+ left: 190px;
+  top: 1920px;
+}
+ul.t1{
+position: absolute;
+ left: 0px;
+top: 2000px;
+font-family: DFKai-sb;
+	}
+p.t2{
+	position: absolute;
+ left: 300px;
+
+
+}
+p.t3{
+	position: absolute;
+ left: 300px;
+  
+}
+h2.target4{
+	position: absolute;
+ left: 200px;
+  top: -200px;
+}
+.sports{ 
+ float: left;
+ margin: -30px 200px;
+}  
+.guitar2{ 
+ float: left;
+ margin: -30px 100px;
+}  
+h2.target5{
+	position: absolute;
+ left: 180px;
+  top: 2800px;
+}
+ul.t2{
+position: absolute;
+ left: 350px;
+top: 2900px;
+font-family: DFKai-sb;
+color: orange;
+}
+.record{
+	width:200px;
+	height:200px;  
+}
+h2.t3{
+position: absolute;
+ left: 180px;
+  top: 3100px;
+}
+.x0{
+	position: absolute;
+	left: 180px;
+  top: 3200px;
+}
+.x1{
+	position: absolute;
+	left: 360px;
+  top: 3200px;
+}
+.x2{
+	position: absolute;
+	left: 540px;
+  top: 3200px;
+}
+.x3{
+	position: absolute;
+	left: 720px;
+  top: 3200px;
+}
+.x4{
+	position: absolute;
+	left: 540px;
+  top: 3500px;
+}
+.x5{
+	position: absolute;
+	left: 720px;
+  top: 3500px;
+}
+.x6{
+	position: absolute;
+	left: 900px;
+  top: 3500px;
+}
+.x7{
+	position: absolute;
+	left: 1080px;
+  top: 3500px;
+}
+.end{
+	position: absolute;
+	left: 100px;
+	top:3800px;
+}
