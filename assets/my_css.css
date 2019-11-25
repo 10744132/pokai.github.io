@@ -40,6 +40,10 @@ p.target1{
 		position: absolute;
  left: 330px;
 }
+.SocietyImg{
+	height:220px;
+	max-width: 270px;
+}
 .violin{ 
 	
  float: left;
