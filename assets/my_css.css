@@ -8,3 +8,8 @@ div{
 	text-align: center;
 	margin:0px auto;
 }
+.me {
+ position: absolute;
+ left: 183px;
+ top: 655px;
+}
