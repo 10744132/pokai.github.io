@@ -11,13 +11,13 @@ div{
 .me {
  position: absolute;
  left: 183px;
- top: 355px;
+ top: 55px;
 }
 .school {
  position: absolute;
  float: top;
- left: 400px;
- top: 900px;
+ left: 300px;
+ top: 600px;
  
 }
 h2.target1{
@@ -29,12 +29,12 @@ h2.target1{
 h2.target2{
 	position: absolute;
  left: 220px;
-  top: 150px;
+  top: 650px;
 }
 p.target{
 	position: absolute;
- left: 350px;
- top: 1200px;
+ left: 250px;
+ top: 900px;
   }
 p.target1{
 		position: absolute;
